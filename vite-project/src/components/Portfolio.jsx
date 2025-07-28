@@ -2,8 +2,8 @@ import React, { useRef, useState } from "react";
 import { FaGithub, FaLinkedin, FaPhoneAlt } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import { motion } from "framer-motion";
-import "./Navbar.css";
-
+import "./Portfolio.css";
+    
 
 
 // Skill Card Component
